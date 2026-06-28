@@ -11,5 +11,6 @@
 | longjiang-pork-trotter-rice | 隆江猪脚饭 |
 | minnan-dried-noodles | 闽南干卤面 |
 | shuiji-bianrou | 水吉扁肉 |
+| xinjiang-gangzi-rou | 喀什缸子肉：搪瓷缸中的南疆本味 |
 
-> 自动生成，9 道菜品
+> 自动生成，10 道菜品
