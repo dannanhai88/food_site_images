@@ -135,5 +135,6 @@
 | 131 | 白切鸡：清水煮出的至鲜至嫩 | White Cut Chicken: The Ultimate in Simplicity | white-cut-chicken |
 | 132 | 胡椒猪肚鸡：广东的暖胃汤王 | White Pepper Pork Belly and Chicken Soup: Guangdong’s Warming Winter Elixir | white-pepper-pork-tripe-chicken-soup |
 | 133 | 冬瓜排骨汤：清甜入骨的夏日清汤 | Winter Melon and Pork Rib Soup: A Clear Broth That Warms from Within | winter-melon-rib-soup |
-| 134 | 黄焖鸡：一锅酱香浓郁的米饭杀手 | Braised Chicken with Mushrooms and Potatoes: The Sticky, Savory Rice Killer | yellow-braised-chicken |
-| 135 | 鱼香肉丝：无鱼胜有鱼的川菜经典 | Yu Xiang Rou Si: The Fish-Fragrant Pork That Contains No Fish | yu-xiang-shredded-pork |
+| 134 | 厦门沙茶面：一碗浓香四溢的海滨滋味 | Xiamen Shacha Noodles: A Bowl of Coastal Comfort | xiamen-sha-cha-mian |
+| 135 | 黄焖鸡：一锅酱香浓郁的米饭杀手 | Braised Chicken with Mushrooms and Potatoes: The Sticky, Savory Rice Killer | yellow-braised-chicken |
+| 136 | 鱼香肉丝：无鱼胜有鱼的川菜经典 | Yu Xiang Rou Si: The Fish-Fragrant Pork That Contains No Fish | yu-xiang-shredded-pork |
