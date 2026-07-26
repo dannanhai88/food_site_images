@@ -4,8 +4,8 @@
 |------|------|------|--------|
 | 1 | 老醋花生：酸甜酥脆的北方下酒菜 | Aged Vinegar Peanuts: A Crispy, Sweet-and-Sour Northern Chinese Bar Snack | aged-vinegar-peanuts |
 | 2 | 牛肉面：一碗汤里的中国温度 | Beef Noodle Soup: The Soul of Chinese Comfort Food | beef-noodle-soup |
-| 3 | 啤酒鸭：啤酒慢炖的酱香酥烂 | Beer-Braised Duck: Rich, Savory, and Fall-Apart Tender | beer-braised-duck |
-| 4 | 凉拌苦瓜：夏日里的清苦回甘 | Cold-Blanched Bitter Melon: Summer's Bitter-Sweet Bite | bitter-melon-salad |
+| 3 | 凉拌苦瓜：夏日里的清苦回甘 | Cold-Blanched Bitter Melon: Summer's Bitter-Sweet Bite | bitter-melon-salad |
+| 4 | 苦瓜炒蛋：苦中回甘的家常智慧 | Bitter Melon Scrambled Eggs: A Summer Classic | bitter-melon-scrambled-eggs |
 | 5 | 黑椒牛肉粒：一口爆汁的嫩滑 | Black Pepper Beef Cubes: A Burst of Juicy Tenderness | black-pepper-beef-cubes |
 | 6 | 水煮牛肉：红油里的嫩滑传奇 | Shuǐ Zhǔ Niú Ròu: The Tender Legend in Chili Oil | boiled-beef-chili-sauce |
 | 7 | 红烧鸡翅：甜咸交织的家常温暖 | Braised Chicken Wings in Soy Sauce: Sweet-Savory Home Comfort | braised-chicken-wings |
@@ -47,8 +47,8 @@
 | 43 | 肉末豆角：干香酥韧一碟藏咸鲜微辣 | Stir-Fried Green Beans with Minced Pork | green-beans-minced-meat |
 | 44 | 青椒炒蛋：五分钟家常烟火气 | Green Pepper Scrambled Eggs: Five-Minute Wok Magic | green-pepper-scrambled-eggs |
 | 45 | 烤羊肉串：夜市里的炭火诱惑 | Charcoal-Grilled Lamb Skewers: The Night Market's Fiery Temptation | grilled-lamb-skewers |
-| 46 | 锅包肉 | Guō Bāo Ròu: The Crispy, Sweet-and-Sour Pork That Defines Northeast China | guo-bao-rou |
-| 47 | 火腿炒蛋：三分钟的快手咸香 | Ham and Egg Stir-Fry: A Three-Minute Comfort Classic | ham-scrambled-eggs |
+| 46 | 火腿炒蛋：三分钟的快手咸香 | Ham and Egg Stir-Fry: A Three-Minute Comfort Classic | ham-scrambled-eggs |
+| 47 | 手撕包菜：湖南的酸辣脆爽 | Hand-Torn Cabbage (Shou Si Bao Cai) | hand-torn-cabbage |
 | 48 | 虾饺：水晶里的鲜甜 | Har Gow: Sweetness in Crystal | har-gow |
 | 49 | 家常豆腐：平凡中的惊艳 | Home-Style Tofu: The Quiet Star of the Chinese Dinner Table | home-style-tofu |
 | 50 | 酸辣粉：酸辣交织的粉条盛宴 | Hot and Sour Noodles (Suān Là Fěn) | hot-sour-rice-noodles |
@@ -65,7 +65,7 @@
 | 61 | 莲藕排骨汤：秋冬的温润滋补 | Lotus Root and Pork Rib Soup: A Gentle Winter Comfort | lotus-root-rib-soup |
 | 62 | 麻辣香锅：一锅爆炒的江湖 | Mala Xiang Guo: A Wok-Fried Feast That Bites Back | mala-dry-pot |
 | 63 | 四川麻婆豆腐：麻辣鲜香嫩滑酥烫七味俱全 | Mapo Tofu: Silky Bean Curd in a Fiery Sichuan Broth | mapo-tofu |
-| 64 | 梅菜扣肉：时间的魔法 | Mei Cai Kou Rou: The Magic of Time | mei-cai-kou-rou |
+| 64 | 梅菜扣肉：五花与梅菜的层层交叠 | Mei Cai Kou Rou: Pork Belly Layered with Preserved Mustard Greens | mei-cai-kou-rou |
 | 65 | 绿豆汤：夏日的清凉解药 | Mung Bean Soup: Summer's Cooling Cure | mung-bean-soup |
 | 66 | 菌菇豆腐汤：一碗清鲜的暖意 | Mushroom and Tofu Soup: A Bowl of Pure Comfort | mushroom-tofu-soup |
 | 67 | 凉拌秋葵：夏日里的脆滑清爽 | Cold Okra Salad: A Summer Bite of Crisp and Silky | okra-salad |
@@ -117,34 +117,35 @@
 | 113 | 春卷：金黄薄脆裹住一整个春天 | Spring Rolls: Crispy, Golden, and Irresistibly Crunchy | spring-rolls |
 | 114 | 蒸水蛋：一碗温柔的布丁 | Steamed Egg Custard: China’s Silky, Savory Pudding | steamed-egg-custard |
 | 115 | 蒜蓉蒸茄子：少油软糯的夏日清爽 | Steamed Eggplant with Garlic Sauce: A Light, Silky Summer Classic | steamed-eggplant-garlic |
-| 116 | 粉蒸肉：米粉裹肉的软糯咸香 | Steamed Pork with Rice Flour: Tender, Savory, and Comforting | steamed-pork-rice-flour |
-| 117 | 豆豉蒸排骨：豉香入骨的嫩滑 | Steamed Pork Ribs with Fermented Black Beans: Tender, Savory, and Infused with Umami | steamed-ribs-black-bean-sauce |
-| 118 | 清蒸鲈鱼：鲜美的极致 | Steamed Sea Bass: The Ultimate Purity | steamed-sea-bass |
-| 119 | 蒜蓉粉丝蒸虾：平凡食材烹出盛宴鲜香 | Garlic Vermicelli Steamed Shrimp | steamed-shrimp-garlic-vermicelli |
-| 120 | 臭豆腐：闻臭吃香的街头传奇 | Stinky Tofu: The Street Food That Smells Like a Dare and Tastes Like a Revelation | stinky-tofu |
-| 121 | 杏鲍菇素炒：素炒三鲜菌香满盘脆嫩交织 | Stir-Fried King Oyster Mushrooms | stir-fried-king-oyster-mushroom |
-| 122 | 小炒肉：湖南的锅气与辣味 | Xiao Chao Rou: Hunan's Wok-Charred Pork with Chili | stir-fried-pork-peppers |
-| 123 | 清炒时蔬：一碟自然的鲜甜 | Stir-Fried Seasonal Greens: A Plate of Nature’s Sweetness | stir-fried-seasonal-vegetables |
-| 124 | 清炒空心菜：夏日的一抹翠绿 | Stir-Fried Water Spinach: A Summer Bite of Green | stir-fried-water-spinach |
-| 125 | 糖拌西红柿：夏日的一口清凉 | Sugared Tomatoes: A Taste of Summer | sugar-marinated-tomatoes |
-| 126 | 糖醋脆皮豆腐：素菜中的酸甜交响曲 | Sweet and Sour Crispy Tofu: A Vegetarian Symphony of Tangy Delight | sweet-sour-crispy-tofu |
-| 127 | 糖醋排骨：甜酸交织的酥脆诱惑 | Sweet and Sour Ribs: A Crispy Tango of Sugar and Vinegar | sweet-sour-ribs |
-| 128 | 虎皮青椒：四川的焦香素味 | Tiger Skin Green Peppers: Sichuan's Smoky Vegetable Delight | tiger-skin-peppers |
-| 129 | 豆腐鱼头汤：一碗乳白的鲜 | Fish Head and Tofu Soup: A Bowl of Milky White Goodness | tofu-fish-head-soup |
-| 130 | 豆腐脑：南北皆爱的温柔滋味 | Tofu Pudding: China’s Silky Breakfast That Bends to Your Will | tofu-pudding |
-| 131 | 番茄牛腩汤：一碗红亮的温暖 | Tomato Beef Brisket Soup: A Bowl of Red-Gold Comfort | tomato-beef-brisket-soup |
-| 132 | 番茄炒菜花：酸甜脆嫩的家常味 | Tomato Stir-Fried Cauliflower: A Tangy, Crisp Home-Style Classic | tomato-cauliflower |
-| 133 | 西红柿鸡蛋面：一碗红亮汤面酸甜开胃 | Tomato Egg Noodle Soup: A Comforting Chinese Classic in 20 Minutes | tomato-egg-noodles |
-| 134 | 番茄蛋汤：一碗家常的酸甜鲜 | Tomato Egg Drop Soup: A Bowl of Home-Style Sweet and Sour Freshness | tomato-egg-soup |
-| 135 | 番茄肉酱面：一碗家常的酸香 | Tomato Pork Noodles: A Chinese Weeknight Classic | tomato-meat-sauce-noodles |
-| 136 | 西红柿炒鸡蛋：酸甜的国民家常菜 | Tomato and Egg Stir-Fry: A Sweet-Sour National Comfort | tomato-scrambled-eggs |
-| 137 | 回锅肉：先煮后炒灯盏窝肥而不腻 | Twice-Cooked Pork | twice-cooked-pork |
-| 138 | 醋溜白菜：酸辣清欢里的脆嫩时光 | Quick-Sautéed Cabbage with Vinegar (Cù Liū Bái Cài) | vinegar-glazed-cabbage |
-| 139 | 西瓜皮炒肉：夏天的变废为宝 | Stir-Fried Watermelon Rind with Pork: Summer’s Kitchen Alchemy | watermelon-rind-stir-fry |
-| 140 | 西湖牛肉羹：杭州的温柔滑嫩 | West Lake Beef Soup: Hangzhou’s Silky Embrace | west-lake-beef-soup |
-| 141 | 白切鸡：清水煮出的至鲜至嫩 | White Cut Chicken: The Ultimate in Simplicity | white-cut-chicken |
-| 142 | 胡椒猪肚鸡：广东的暖胃汤王 | White Pepper Pork Belly and Chicken Soup: Guangdong’s Warming Winter Elixir | white-pepper-pork-tripe-chicken-soup |
-| 143 | 冬瓜排骨汤：清甜入骨的夏日清汤 | Winter Melon and Pork Rib Soup: A Clear Broth That Warms from Within | winter-melon-rib-soup |
-| 144 | 厦门沙茶面：一碗海边的浓香 | Xiamen Shacha Noodles: A Bowl of Coastal Richness | xiamen-satay-noodles |
-| 145 | 黄焖鸡：一锅酱香浓郁的米饭杀手 | Braised Chicken with Mushrooms and Potatoes: The Sticky, Savory Rice Killer | yellow-braised-chicken |
-| 146 | 鱼香肉丝：无鱼胜有鱼的川菜经典 | Yu Xiang Rou Si: The Fish-Fragrant Pork That Contains No Fish | yu-xiang-shredded-pork |
+| 116 | 清蒸膏蟹：大海的纯粹馈赠 | Steamed Female Mud Crab with Roe | steamed-female-mud-crab-with-roe |
+| 117 | 粉蒸肉：米粉裹肉的软糯咸香 | Steamed Pork with Rice Flour: Tender, Savory, and Comforting | steamed-pork-rice-flour |
+| 118 | 豆豉蒸排骨：豉香入骨的嫩滑 | Steamed Pork Ribs with Fermented Black Beans: Tender, Savory, and Infused with Umami | steamed-ribs-black-bean-sauce |
+| 119 | 清蒸鲈鱼：鲜美的极致 | Steamed Sea Bass: The Ultimate Purity | steamed-sea-bass |
+| 120 | 蒜蓉粉丝蒸虾：平凡食材烹出盛宴鲜香 | Garlic Vermicelli Steamed Shrimp | steamed-shrimp-garlic-vermicelli |
+| 121 | 臭豆腐：闻臭吃香的街头传奇 | Stinky Tofu: The Street Food That Smells Like a Dare and Tastes Like a Revelation | stinky-tofu |
+| 122 | 杏鲍菇素炒：素炒三鲜菌香满盘脆嫩交织 | Stir-Fried King Oyster Mushrooms | stir-fried-king-oyster-mushroom |
+| 123 | 小炒肉：湖南的锅气与辣味 | Xiao Chao Rou: Hunan's Wok-Charred Pork with Chili | stir-fried-pork-peppers |
+| 124 | 清炒时蔬：一碟自然的鲜甜 | Stir-Fried Seasonal Greens: A Plate of Nature’s Sweetness | stir-fried-seasonal-vegetables |
+| 125 | 清炒空心菜：夏日的一抹翠绿 | Stir-Fried Water Spinach: A Summer Bite of Green | stir-fried-water-spinach |
+| 126 | 糖拌西红柿：夏日的一口清凉 | Sugared Tomatoes: A Taste of Summer | sugar-marinated-tomatoes |
+| 127 | 糖醋脆皮豆腐：素菜中的酸甜交响曲 | Sweet and Sour Crispy Tofu: A Vegetarian Symphony of Tangy Delight | sweet-sour-crispy-tofu |
+| 128 | 糖醋排骨：甜酸交织的酥脆诱惑 | Sweet and Sour Ribs: A Crispy Tango of Sugar and Vinegar | sweet-sour-ribs |
+| 129 | 虎皮青椒：四川的焦香素味 | Tiger Skin Green Peppers: Sichuan's Smoky Vegetable Delight | tiger-skin-peppers |
+| 130 | 豆腐鱼头汤：一碗乳白的鲜 | Fish Head and Tofu Soup: A Bowl of Milky White Goodness | tofu-fish-head-soup |
+| 131 | 豆腐脑：南北皆爱的温柔滋味 | Tofu Pudding: China’s Silky Breakfast That Bends to Your Will | tofu-pudding |
+| 132 | 番茄牛腩汤：一碗红亮的温暖 | Tomato Beef Brisket Soup: A Bowl of Red-Gold Comfort | tomato-beef-brisket-soup |
+| 133 | 番茄炒菜花：酸甜脆嫩的家常味 | Tomato Stir-Fried Cauliflower: A Tangy, Crisp Home-Style Classic | tomato-cauliflower |
+| 134 | 西红柿鸡蛋面：一碗红亮汤面酸甜开胃 | Tomato Egg Noodle Soup: A Comforting Chinese Classic in 20 Minutes | tomato-egg-noodles |
+| 135 | 番茄蛋汤：一碗家常的酸甜鲜 | Tomato Egg Drop Soup: A Bowl of Home-Style Sweet and Sour Freshness | tomato-egg-soup |
+| 136 | 番茄肉酱面：一碗家常的酸香 | Tomato Pork Noodles: A Chinese Weeknight Classic | tomato-meat-sauce-noodles |
+| 137 | 西红柿炒鸡蛋：酸甜的国民家常菜 | Tomato and Egg Stir-Fry: A Sweet-Sour National Comfort | tomato-scrambled-eggs |
+| 138 | 回锅肉：先煮后炒灯盏窝肥而不腻 | Twice-Cooked Pork | twice-cooked-pork |
+| 139 | 醋溜白菜：酸辣清欢里的脆嫩时光 | Quick-Sautéed Cabbage with Vinegar (Cù Liū Bái Cài) | vinegar-glazed-cabbage |
+| 140 | 西瓜皮炒肉：夏天的变废为宝 | Stir-Fried Watermelon Rind with Pork: Summer’s Kitchen Alchemy | watermelon-rind-stir-fry |
+| 141 | 西湖牛肉羹：杭州的温柔滑嫩 | West Lake Beef Soup: Hangzhou’s Silky Embrace | west-lake-beef-soup |
+| 142 | 白切鸡：清水煮出的至鲜至嫩 | White Cut Chicken: The Ultimate in Simplicity | white-cut-chicken |
+| 143 | 胡椒猪肚鸡：广东的暖胃汤王 | White Pepper Pork Belly and Chicken Soup: Guangdong’s Warming Winter Elixir | white-pepper-pork-tripe-chicken-soup |
+| 144 | 冬瓜排骨汤：清甜入骨的夏日清汤 | Winter Melon and Pork Rib Soup: A Clear Broth That Warms from Within | winter-melon-rib-soup |
+| 145 | 厦门沙茶面：一碗海边的浓香 | Xiamen Shacha Noodles: A Bowl of Coastal Richness | xiamen-satay-noodles |
+| 146 | 黄焖鸡：一锅酱香浓郁的米饭杀手 | Braised Chicken with Mushrooms and Potatoes: The Sticky, Savory Rice Killer | yellow-braised-chicken |
+| 147 | 鱼香肉丝：无鱼胜有鱼的川菜经典 | Yu Xiang Rou Si: The Fish-Fragrant Pork That Contains No Fish | yu-xiang-shredded-pork |
