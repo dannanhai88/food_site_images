@@ -63,7 +63,7 @@
 | 59 | 荷叶蒸滑鸡：荷叶里的鲜嫩秘密 | Lotus Leaf Steamed Chicken | lotus-leaf-steamed-chicken |
 | 60 | 莲藕排骨汤 | Lotus Root & Pork Rib Soup: A Winter Classic Built on Contrast | lotus-root-rib-soup |
 | 61 | 麻辣香锅：一锅爆炒的江湖 | Malà Xiāngguō: The One-Pot Wonder of Sichuan's Dockyards | mala-dry-pot |
-| 62 | 麻婆豆腐：四川的麻辣烟火气 | Mapo Tofu: The Six-Layer Symphony of Numbing, Spicy, and Savory | mapo-tofu |
+| 62 | 麻婆豆腐：四川的滚烫红油 | Mapo Tofu: The Science of Numbing, Spicy, Silky Perfection | mapo-tofu |
 | 63 | 梅菜扣肉：五花与梅菜的层层交叠 | Mei Cai Kou Rou: The Melt-in-Your-Mouth Pork Belly That Steals Every Banquet | mei-cai-kou-rou |
 | 64 | 绿豆汤：夏日的清凉解药 | Mung Bean Soup: China's Ancient Answer to Air Conditioning | mung-bean-soup |
 | 65 | 菌菇豆腐汤：一碗清鲜的暖意 | Silken Tofu & Dried Shiitake Soup: A Bowl of Quiet Comfort | mushroom-tofu-soup |
